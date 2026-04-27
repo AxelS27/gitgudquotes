@@ -1,16 +1,32 @@
 [
+	{
+		"name": "Example Student",
+		"class": "LA06",
+		"quote": "Small commits make big projects manageable."
+	},
+	{
+		"name": "Example Student 2",
+		"class": "LF07",
+		"quote": "A clear commit message helps your future self."
+	},
+	{
+		"name": "Owi",
+		"class": "LE01",
+		"quote": "we wok de tok not anle tok de tok"
+	},
   {
-    "name": "Example Student",
-    "class": "LA06",
-    "quote": "Small commits make big projects manageable."
+    "name": "gg",
+    "class": "LH01",
+    "quote": "membelajari pergit an dunia sangat mengasikan"
   },
   {
-    "name": "Example Student 2",
+    "name": "Stanislaus Alva Jufinto",
     "class": "LF07",
-    "quote": "A clear commit message helps your future self."
-  }
+    "quote": "Salam kenal aku gue."
+  },
   {
-    "quote": "Talk is cheap. Show me the code.",
-    "author": "Linus Torvalds"
+    "name": "Arief Arya Menon",
+    "class": "LE01",
+    "quote": "Hard things are easy when you don't think it's hard."
   }
 ]
