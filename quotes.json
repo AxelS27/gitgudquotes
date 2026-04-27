@@ -33,5 +33,10 @@
     "name": "Arief Arya Menon",
     "class": "LE01",
     "quote": "Hard things are easy when you don't think it's hard."
+  },
+  {
+    "name": "John",
+    "class": "LE07",
+    "quote": "if debugging is the process of removing software bugs, then programming must be the process of putting them in." 
   }
 ]
